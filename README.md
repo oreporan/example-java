@@ -9,6 +9,9 @@ This repository serves as an **example** on how to use [Codecov Global][4] for J
 ## Usage
 
 
+
+
+
 ### Add Jacoco plugin
 ```xml
 <plugin>
